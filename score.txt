@@ -1,0 +1,2 @@
+Michal: 4 guesses in 24.66 seconds
+Test: 11 guesses in 62.57 seconds
